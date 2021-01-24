@@ -3,7 +3,7 @@ title: John Hazelton
 description: I will fill in a description later
 ---
 
-![My Picture](/pics/IMG-8127)
+![My Picture](/pics/IMG-8127.jpg)
 
 This is some data-realted sample content:
 
